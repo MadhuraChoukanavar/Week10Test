@@ -1,0 +1,13 @@
+package com.crnts.madhura.java8;
+
+import java.util.Comparator;
+import java.util.List;
+
+public class YoungEmpInEachDept {
+	
+	public static void main(String[] args) {
+		List<Employee> employeeList=new GetEmployeeList().employeeList();
+		employeeList.stream().comin(Comparator.comparing(Employee::getAge))
+	}
+
+}

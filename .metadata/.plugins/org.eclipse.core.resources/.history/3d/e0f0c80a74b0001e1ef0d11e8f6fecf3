@@ -1,0 +1,12 @@
+package com.crnts.madhura.java8;
+
+public class EmployeeList {
+	
+	
+	public void employeeList()
+	
+	{
+		
+	}
+
+}

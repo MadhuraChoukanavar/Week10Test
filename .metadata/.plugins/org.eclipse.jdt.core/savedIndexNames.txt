@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\Users\HP\OneDrive\Desktop\CoreNuts Feuji Training\TestJava\.metadata\.plugins\org.eclipse.jdt.core
+1593238712.index
+282390486.index
+418381885.index
+1752014882.index
+1865797976.index
+3766348770.index
+3742470594.index
+3393912794.index
+3428832038.index
+2705626851.index
+795405157.index
+4194882679.index
+943136388.index
+1275635603.index
+1364625052.index
+1797012185.index
+865963536.index
+3566195470.index
+2091657447.index

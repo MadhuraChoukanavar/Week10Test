@@ -1,0 +1,15 @@
+package com.crnts.madhura.java8;
+
+import java.util.List;
+import java.util.Scanner;
+
+public class EmployeePresentOrNOt {
+	public static void main(String[] args) {
+		List<Employee> employees =new GetEmployeeList().employeeList();
+		Scanner scn=new Scanner(System.in);
+		System.out.println("enter the name of employee");
+		String next = scn.next();
+		
+	}
+
+}
